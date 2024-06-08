@@ -362,3 +362,20 @@ C:\Users\SOUQ ALCOMPUMARTS\Desktop\final ss 6\ServiceSphere.APIs\ServiceSphere.A
 C:\Users\SOUQ ALCOMPUMARTS\Desktop\final ss 6\ServiceSphere.APIs\ServiceSphere.APIs\ServiceSphere.services\obj\Debug\net6.0\refint\ServiceSphere.services.dll
 C:\Users\SOUQ ALCOMPUMARTS\Desktop\final ss 6\ServiceSphere.APIs\ServiceSphere.APIs\ServiceSphere.services\obj\Debug\net6.0\ServiceSphere.services.pdb
 C:\Users\SOUQ ALCOMPUMARTS\Desktop\final ss 6\ServiceSphere.APIs\ServiceSphere.APIs\ServiceSphere.services\obj\Debug\net6.0\ref\ServiceSphere.services.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\servicesphereapisss\ServiceSphereAPIS\ServiceSphere.APIs\ServiceSphere.services\bin\Debug\net6.0\ServiceSphere.services.deps.json
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\servicesphereapisss\ServiceSphereAPIS\ServiceSphere.APIs\ServiceSphere.services\bin\Debug\net6.0\ServiceSphere.services.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\servicesphereapisss\ServiceSphereAPIS\ServiceSphere.APIs\ServiceSphere.services\bin\Debug\net6.0\ServiceSphere.services.pdb
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\servicesphereapisss\ServiceSphereAPIS\ServiceSphere.APIs\ServiceSphere.services\bin\Debug\net6.0\ServiceSphere.core.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\servicesphereapisss\ServiceSphereAPIS\ServiceSphere.APIs\ServiceSphere.services\bin\Debug\net6.0\ServiceSphere.repositery.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\servicesphereapisss\ServiceSphereAPIS\ServiceSphere.APIs\ServiceSphere.services\bin\Debug\net6.0\ServiceSphere.core.pdb
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\servicesphereapisss\ServiceSphereAPIS\ServiceSphere.APIs\ServiceSphere.services\bin\Debug\net6.0\ServiceSphere.repositery.pdb
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\servicesphereapisss\ServiceSphereAPIS\ServiceSphere.APIs\ServiceSphere.services\obj\Debug\net6.0\ServiceSphere.services.csproj.AssemblyReference.cache
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\servicesphereapisss\ServiceSphereAPIS\ServiceSphere.APIs\ServiceSphere.services\obj\Debug\net6.0\ServiceSphere.services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\servicesphereapisss\ServiceSphereAPIS\ServiceSphere.APIs\ServiceSphere.services\obj\Debug\net6.0\ServiceSphere.services.AssemblyInfoInputs.cache
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\servicesphereapisss\ServiceSphereAPIS\ServiceSphere.APIs\ServiceSphere.services\obj\Debug\net6.0\ServiceSphere.services.AssemblyInfo.cs
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\servicesphereapisss\ServiceSphereAPIS\ServiceSphere.APIs\ServiceSphere.services\obj\Debug\net6.0\ServiceSphere.services.csproj.CoreCompileInputs.cache
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\servicesphereapisss\ServiceSphereAPIS\ServiceSphere.APIs\ServiceSphere.services\obj\Debug\net6.0\ServiceSphere.services.csproj.CopyComplete
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\servicesphereapisss\ServiceSphereAPIS\ServiceSphere.APIs\ServiceSphere.services\obj\Debug\net6.0\ServiceSphere.services.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\servicesphereapisss\ServiceSphereAPIS\ServiceSphere.APIs\ServiceSphere.services\obj\Debug\net6.0\refint\ServiceSphere.services.dll
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\servicesphereapisss\ServiceSphereAPIS\ServiceSphere.APIs\ServiceSphere.services\obj\Debug\net6.0\ServiceSphere.services.pdb
+C:\Users\SOUQ ALCOMPUMARTS\Desktop\servicesphereapisss\ServiceSphereAPIS\ServiceSphere.APIs\ServiceSphere.services\obj\Debug\net6.0\ref\ServiceSphere.services.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bmILFgCA80DA0fhCewMstVeeduD4eWh2dTfu67LcbmEpLOro9CpFRMUwk10fteToa/pSfqEXEtXjHiVdunNggQ==",
+  "dgSpecHash": "6ZKQ44/jvtdw0KAFcPOXlLJjdjH2WgFVEq9wtWFcsYuSXKFrK7ZVFmHaaTGoXl4ZefjM77v96YHWwH2gb6ynBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SOUQ ALCOMPUMARTS\\Desktop\\final ss 6\\ServiceSphere.APIs\\ServiceSphere.APIs\\ServiceSphere.services\\ServiceSphere.services.csproj",
+  "projectFilePath": "C:\\Users\\SOUQ ALCOMPUMARTS\\Desktop\\servicesphereapisss\\ServiceSphereAPIS\\ServiceSphere.APIs\\ServiceSphere.services\\ServiceSphere.services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SOUQ ALCOMPUMARTS\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.25\\microsoft.aspnetcore.authentication.jwtbearer.6.0.25.nupkg.sha512",
     "C:\\Users\\SOUQ ALCOMPUMARTS\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.25\\microsoft.aspnetcore.cryptography.internal.6.0.25.nupkg.sha512",

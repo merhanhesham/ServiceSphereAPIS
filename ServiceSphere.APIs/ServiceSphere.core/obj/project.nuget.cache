@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QryWfY0eshgn2jX4gGO7Fvg5SahNjWnGVjFceWeLpqEL7dfwREI4FUcxCXZ++e6UZtTXIz+obVfmGF9bg489PQ==",
+  "dgSpecHash": "0q2V9yF3Zi1orM+MWt4bSHzka4A44D4S0iOawdDvsP+uvHuUygEouqXp9n/u0pa7saZ7abckUjpLPwJU55IlZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SOUQ ALCOMPUMARTS\\Desktop\\final ss 6\\ServiceSphere.APIs\\ServiceSphere.APIs\\ServiceSphere.core\\ServiceSphere.core.csproj",
+  "projectFilePath": "C:\\Users\\SOUQ ALCOMPUMARTS\\Desktop\\servicesphereapisss\\ServiceSphereAPIS\\ServiceSphere.APIs\\ServiceSphere.core\\ServiceSphere.core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SOUQ ALCOMPUMARTS\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.25\\microsoft.aspnetcore.cryptography.internal.6.0.25.nupkg.sha512",
     "C:\\Users\\SOUQ ALCOMPUMARTS\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.25\\microsoft.aspnetcore.cryptography.keyderivation.6.0.25.nupkg.sha512",

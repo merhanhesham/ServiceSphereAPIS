@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a6kgKeCe3dM2KEtR4xOrldyrOxYu3DcPeQuKB3cD0LYTlQMp0x2D0A0xALY74iN5gDLaDCRjRuZuS8zJuwarOw==",
+  "dgSpecHash": "6YPN3AmttiwIxjvCfkQ/NrHNZC6AsAoR27Q5u7aUuc1cY3k8eBhcKFTTJ941xyNOyNU8n+TdtSNQydicbiMubQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SOUQ ALCOMPUMARTS\\Desktop\\final ss 6\\ServiceSphere.APIs\\ServiceSphere.APIs\\ServiceSphere.APIs\\ServiceSphere.APIs.csproj",
+  "projectFilePath": "C:\\Users\\SOUQ ALCOMPUMARTS\\Desktop\\servicesphereapisss\\ServiceSphereAPIS\\ServiceSphere.APIs\\ServiceSphere.APIs\\ServiceSphere.APIs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SOUQ ALCOMPUMARTS\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\SOUQ ALCOMPUMARTS\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
