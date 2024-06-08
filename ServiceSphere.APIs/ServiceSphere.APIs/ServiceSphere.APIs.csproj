@@ -23,4 +23,6 @@
     <ProjectReference Include="..\ServiceSphere.services\ServiceSphere.services.csproj" />
   </ItemGroup>
 
+  <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JsonSchema="https://bioimage-io.github.io/spec-bioimage-io/bioimageio_schema_latest.json" /></VisualStudio></ProjectExtensions>
+
 </Project>
