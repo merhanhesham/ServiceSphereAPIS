@@ -1,6 +1,8 @@
 # Use the official .NET SDK image to build the application
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
+
+# Copy all .csproj files and the solution file
 COPY ["ServiceSphere.APIs.sln", "./"]
 COPY ["ServiceSphere.core/ServiceSphere.core.csproj", "ServiceSphere.core/"]
 COPY ["ServiceSphere.repository/ServiceSphere.repository.csproj", "ServiceSphere.repository/"]
